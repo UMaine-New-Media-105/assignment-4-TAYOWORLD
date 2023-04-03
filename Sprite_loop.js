@@ -18,19 +18,19 @@ function draw() {
   
   for(let counter = 0; counter < 8; counter ++){
      niceStar(starXa,starYa,60,5)
-  starXa = starXa + 210
+  starXa = starXa + 100
   }
   
   
   for(let counter = 0; counter < 8; counter ++){
   easyStar(starXb,starYb,60,5)
-    starXb = starXb + 210
+    starXb = starXb + 100
  }
   
   
   for(let counter = 0; counter < 15; counter ++){
     coolStar(starX,starY,60,5)
-    starX = starX+ 210
+    starX = starX+ 100
    
      
   
