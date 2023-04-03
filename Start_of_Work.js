@@ -29,5 +29,5 @@ function funnyStar(x, y, size) {
     vertex(x, y);
   }
   endShape(CLOSE);
-  pop(); // restore the previous drawing state
+  pop();
 }
